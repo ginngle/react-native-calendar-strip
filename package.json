@@ -1,0 +1,118 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-calendar-strip",
+        "scope": null,
+        "escapedName": "react-native-calendar-strip",
+        "name": "react-native-calendar-strip",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\rcSns-onreact\\runner.camp-uapp"
+    ]
+  ],
+  "_from": "react-native-calendar-strip@latest",
+  "_id": "react-native-calendar-strip@0.1.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-calendar-strip",
+  "_nodeVersion": "7.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-calendar-strip-0.1.2.tgz_1479430707150_0.4015349647961557"
+  },
+  "_npmUser": {
+    "name": "bugidev",
+    "email": "bogdanbegovic@gmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-calendar-strip",
+    "scope": null,
+    "escapedName": "react-native-calendar-strip",
+    "name": "react-native-calendar-strip",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-calendar-strip/-/react-native-calendar-strip-0.1.2.tgz",
+  "_shasum": "b3d8c8a30b1f7f8c7a33c0eaa0b4a815ffd051fd",
+  "_shrinkwrap": null,
+  "_spec": "react-native-calendar-strip",
+  "_where": "E:\\rcSns-onreact\\runner.camp-uapp",
+  "author": {
+    "name": "Bogdan Begovic",
+    "email": "bogdanbegovic@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/BugiDev/react-native-calendar-strip/issues"
+  },
+  "contributors": [
+    {
+      "name": "Florian Biebel"
+    }
+  ],
+  "dependencies": {
+    "moment": "^2.14.1"
+  },
+  "description": "Easy to use and visually stunning calendar component for React Native",
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.4.0",
+    "eslint-plugin-react": "^6.2.0",
+    "react": "15.2.1",
+    "react-native": "^0.31.0"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "dist": {
+    "shasum": "b3d8c8a30b1f7f8c7a33c0eaa0b4a815ffd051fd",
+    "tarball": "https://registry.npmjs.org/react-native-calendar-strip/-/react-native-calendar-strip-0.1.2.tgz"
+  },
+  "gitHead": "f2e2188e34b9a16a1b02a31c02100fa9c2a9e389",
+  "homepage": "https://github.com/BugiDev/react-native-calendar-strip#readme",
+  "keywords": [
+    "react",
+    "native",
+    "rn",
+    "RN",
+    "react native",
+    "react-native",
+    "calendar",
+    "strip",
+    "calendar strip",
+    "calendar-strip",
+    "react native calendar",
+    "react-native-calendar",
+    "react native calendar strip",
+    "react-native-calendar-strip"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "bugidev",
+      "email": "bogdanbegovic@gmail.com"
+    }
+  ],
+  "name": "react-native-calendar-strip",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BugiDev/react-native-calendar-strip.git"
+  },
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.2"
+}
