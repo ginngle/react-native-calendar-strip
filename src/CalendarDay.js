@@ -109,8 +109,8 @@ export default class CalendarDay extends Component {
             dateNameStyle.push({color: '#fff'})
         }
 
-        let TIME = [this.props.year, this.props.month+1, this.props.date]
-
+        let TIME = [this.props.date.year(), this.props.date.month()+1, this.props.date.date()]
+        
         return (
             <Animated.View style={[styles.dateContainer, animObject]}>
                 <TouchableOpacity onPress={this.props.onDateSelected.bind(this, this.props.date, TIME)}>
